@@ -1,0 +1,4 @@
+*.pyc
+*.conll
+*.jsonlines
+/experiments
